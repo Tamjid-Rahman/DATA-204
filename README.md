@@ -1,1 +1,2 @@
 # DATA-204
+I have been studying python on Codecademy, I do have a cheat sheet for python which is saved on my computer. The notes cover all of the python fundementals teachable content. I have installed python 3 and pycharm.
